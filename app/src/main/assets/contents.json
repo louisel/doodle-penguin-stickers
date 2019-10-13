@@ -1,0 +1,141 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Doodle Penguin",
+      "publisher": "Penguin and Hedgehog",
+      "tray_image_file": "tray_penguin_1.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_rice.webp"
+        },
+        {
+          "image_file": "02_prp_no.webp"
+        },
+        {
+          "image_file": "03_friend.webp"
+        },
+        {
+          "image_file": "04_sleep.webp"
+        },
+        {
+          "image_file": "05_judge.webp"
+        },
+        {
+          "image_file": "06_bird_no.webp"
+        },
+        {
+          "image_file": "07_bird_yes.webp"
+        },
+        {
+          "image_file": "08_oop.webp"
+        },
+        {
+          "image_file": "09_owl.webp"
+        },
+        {
+          "image_file": "10_dunn.webp"
+        },
+        {
+          "image_file": "11_warm.webp"
+        },
+        {
+          "image_file": "12_fight_face.webp"
+        },
+        {
+          "image_file": "13_fight_full.webp"
+        },
+        {
+          "image_file": "14_go_get_food.webp"
+        },
+        {
+          "image_file": "15_i_want_food.webp"
+        },
+        {
+          "image_file": "16_cat_sleep.webp"
+        },
+        {
+          "image_file": "17_where_food.webp"
+        },
+        {
+          "image_file": "18_hamster_tea.webp"
+        },
+        {
+          "image_file": "19_save_me.webp"
+        },
+        {
+          "image_file": "20_hamster_sad.webp"
+        },
+        {
+          "image_file": "21_cow_heart.webp"
+        },
+        {
+          "image_file": "22_ele_ok.webp"
+        },
+        {
+          "image_file": "23_ele_grace.webp"
+        },
+        {
+          "image_file": "24_no_right.webp"
+        },
+        {
+          "image_file": "25_pretty.webp"
+        },
+        {
+          "image_file": "26_hmm.webp"
+        },
+        {
+          "image_file": "27_hedge_heart.webp"
+        },
+        {
+          "image_file": "28_cow_present.webp"
+        },
+        {
+          "image_file": "29_lies.webp"
+        },
+        {
+          "image_file": "30_hedgeho_help.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Doodle Penguin",
+      "publisher": "Penguin and Hedgehog",
+      "tray_image_file": "tray_penguin_2.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "31_hedgeho_why.webp"
+        },
+        {
+          "image_file": "32_cow_wow.webp"
+        },
+        {
+          "image_file": "33_gone_case.webp"
+        },
+        {
+          "image_file": "34_wat_la_ma.webp"
+        },
+        {
+          "image_file": "35_upside_down.webp"
+        },
+        {
+          "image_file": "36_cow_rip.webp"
+        },
+        {
+          "image_file": "37_fancy.webp"
+        }
+      ]
+    }
+  ]
+}
